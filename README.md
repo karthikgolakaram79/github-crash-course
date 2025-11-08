@@ -1,3 +1,3 @@
 # Important Intructions
 
-This is for github learning
+This is for git & github learning
